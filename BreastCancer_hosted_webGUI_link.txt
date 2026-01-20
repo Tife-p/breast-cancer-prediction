@@ -1,0 +1,6 @@
+Name: POPOOLA BOLUWATIFE
+Matric Number: 22CD032199
+Machine Learning Algorithm Used: Logistic Regression
+Model Persistence Method: Joblib
+Live URL:https://breast-cancer-predictor-m3gp.onrender.com
+GitHub Repository: https://github.com/Tife-p/BreastCancer_Project_POPOOLA_BOLUWATIFE_22CD032199
